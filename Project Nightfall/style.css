@@ -1,0 +1,59 @@
+
+*{
+  text-decoration: none;
+}
+body{
+  background-color: cyan;
+  height: auto;
+  width: auto;
+  
+  
+}
+header{
+   background-color:yellowgreen;
+   height:auto;
+   width:auto;
+   border-radius: 5px;
+   padding:12px 16px;
+   text-align: center;
+ }
+main{
+  background-color: yellow;
+  height:120 px;
+  width:auto ;
+  border-radius: 5px;
+  padding: 12px 16px;
+
+  color: magenta;
+}
+footer{
+   background-color:purple;
+   height:auto;
+   width:auto;
+   border-radius: 5px;
+   padding:12px 16px;
+   text-align: center;
+   color: cyan;
+  
+}
+a{
+  display: inline-block;
+}
+footer a{
+  color:yellow;
+}
+.footer{
+  font-family:Monospace;
+  font-size: ;
+  color: black;
+  
+}
+
+
+
+
+
+
+
+
+
